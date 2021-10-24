@@ -6,10 +6,12 @@ Professor: Najim Dehak
 # Project Topic:
 Speaker Recognition Task Using Convolutional Neural Network (CNN) and
 Recurrent Neural Network (RNN) Models Based on MFCC Features
-Team members:
+
+# Team members:
 Peixuan Ge, Jiwei Zou, Deming (Remus) Li
 pge3@jh.edu , jzou13@jh.edu , dli90@jh.edu
-Dataset:
+
+# Dataset:
 VoxCeleb1
 “VoxCeleb is an audio-visual dataset consisting of short clips of human speech,
 extracted from interview videos uploaded to YouTube” [1]
