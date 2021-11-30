@@ -23,6 +23,10 @@ Resnet34_mfcc.pth - trained ResNet 34 network using MFCC features, can use Resne
 
 Resnet34_spectro.pth - trained ResNet 34 network using Spectrogram features, can use ResNet34_Spectrogram.ipynb to import and test
 
+LSTM_file1_mfcc.pth - trained LSTM network using MFCC features, can use MLSP_LSTM_mfcc.ipynb to import and test
+
+LSTM_file10.pth - trained LSTM network using Spectrogram features, can use MLSP_LSTM.ipynb to import and test
+
 # Preprocessing and Feature extraction functions:
 Inside the utils folder
 
